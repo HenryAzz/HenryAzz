@@ -5,8 +5,9 @@ Soy Azul Schiaffino, una combinación entre una desarrolladora full stack y una 
 Background: Anteriormente, desempeñé el cargo de Gerente Administrativo en una Inmobiliaria, donde adquirí valiosas habilidades en la gestión y administración. Sin embargo, mi pasión por la tecnología me llevó a adentrarme en el mundo del desarrollo web. Comencé como autodidacta, aprendiendo lenguajes como PHP, Python, JavaScript, TypeScript y SQL. Además, complemento mi formación con cursos de UI, UX y Marketing Digital. Lo que en un principio fue un pasatiempo, se ha convertido en mi profesión actual, siempre buscando resolver problemas de manera eficiente y generar productos atractivos de alta calidad.
 
 Habilidades:
-
+(```) 
 HTML: Experiencia en la creación de estructuras y contenido semántico para páginas web.
+(```) 
 CSS: Conocimiento en la creación de estilos y diseños atractivos y responsivos.
 JavaScript: Dominio en el uso de JavaScript para crear interacciones dinámicas en el lado del cliente.
 TypeScript: Familiarizada con TypeScript, un lenguaje que aporta tipado estático y mayor seguridad a los proyectos de JavaScript.
