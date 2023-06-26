@@ -10,13 +10,17 @@ Habilidades:
 HTML: Experiencia en la creación de estructuras y contenido semántico para páginas web.
 CSS: Conocimiento en la creación de estilos y diseños atractivos y responsivos.
 JavaScript: Dominio en el uso de JavaScript para crear interacciones dinámicas en el lado del cliente.
-TypeScript: Familiarizada con TypeScript, un lenguaje que aporta tipado estático y mayor seguridad a los proyectos de JavaScript.
-React: Experiencia en el desarrollo de aplicaciones web utilizando React, un potente framework de JavaScript para construir interfaces de usuario interactivas y reutilizables.
-Redux: Conocimiento en la gestión del estado global de las aplicaciones usando Redux, una biblioteca de JavaScript.
-Node.js: Competencia en el desarrollo del lado del servidor empleando Node.js, lo que me permite construir aplicaciones web escalables y eficientes.
-Express: Experiencia en el desarrollo de API RESTful utilizando Express, un framework web rápido y minimalista para Node.js.
+TypeScript: Familiarizada con TypeScript, un lenguaje que aporta tipado estático y mayor seguridad
+ a los proyectos de JavaScript.
+React: Experiencia en el desarrollo de aplicaciones web utilizando React, un potente framework de JavaScript
+para construir interfaces de usuario interactivas y reutilizables.
+Redux: Conocimiento en la gestión del estado global de las aplicaciones usando Redux y Redux Toolkit.
+Node.js: Competencia en el desarrollo del lado del servidor empleando Node.js, lo que me permite
+construir aplicaciones web escalables y eficientes.
+Express: Experiencia en el desarrollo de API RESTful utilizando Express, un framework web rápido
+ y minimalista para Node.js.
 PostgreSQL: Habilidades en el uso de PostgreSQL como sistema de gestión de bases de datos relacional.
-
+(```) 
 Proyectos:
 
 ApoloWeb
